@@ -1,3 +1,4 @@
 packages:
     - vue3
+    - vue2
     - demo/*

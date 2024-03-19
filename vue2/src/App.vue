@@ -1,9 +1,11 @@
 <script setup lang="ts"></script>
 
 <template>
-    <header>111</header>
+    <div>
+        <header>111</header>
 
-    <main></main>
+        <main></main>
+    </div>
 </template>
 
 <style lang="scss" scoped></style>
