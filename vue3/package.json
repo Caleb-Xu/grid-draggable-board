@@ -9,8 +9,7 @@
         "preview": "vite preview",
         "build-only": "vite build",
         "type-check": "vue-tsc --build --force",
-        "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
-        "format": "prettier --write ."
+        "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
     },
     "module": "./dist/grid-draggable-board-vue3.js",
     "types": "./dist/grid-draggable-board-vue3.d.ts",
@@ -26,7 +25,6 @@
         "eslint": "^8.49.0",
         "eslint-plugin-vue": "^9.17.0",
         "npm-run-all2": "^6.1.1",
-        "prettier": "^3.0.3",
         "sass": "^1.71.1",
         "typescript": "~5.3.0",
         "vite": "^5.0.11",
